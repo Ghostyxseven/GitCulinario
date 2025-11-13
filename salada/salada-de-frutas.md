@@ -61,8 +61,3 @@ Leve à geladeira por pelo menos 30 minutos. Assim as frutas ficam geladinhas e 
 ✨ Para um toque tropical, adicione pedacinhos de manga e abacaxi.
 ✨ E lembre-se: quanto mais cores, mais alegria no prato e no coração. 🌈💖
 
-📸 Sugestão de Apresentação
-
-Sirva sua salada de frutas em potinhos de vidro ou taças transparentes, salpique granola ou coco ralado por cima e decore com um morango inteiro no topo. 🍓🌿
-
-💞 Bom apetite, estrela das frutas! 🌟🍇
