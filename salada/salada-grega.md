@@ -64,9 +64,3 @@ Leve à geladeira por 15 a 30 minutos antes de servir. Assim, os sabores se fund
 ✨ Sirva com pão sírio quentinho ou torradinhas — combinação celestial! 🫓
 ✨ E lembre-se: salada grega boa é simples, colorida e feita com ingredientes de verdade. 🇬🇷💙
 
-📸 Sugestão de Apresentação
-
-Sirva em uma tigela branca ou de cerâmica azul (para entrar no clima grego 💙).
-Decore com alguns cubinhos extras de feta, um fio de azeite e uma pitada final de orégano por cima. 🌿✨
-
-💞 Bom apetite, deusa (ou deus) da cozinha! 🌟🥗
