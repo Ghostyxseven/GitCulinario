@@ -56,13 +56,5 @@
 ✨ Sirva em potinhos individuais de vidro — *fica puro charme*.  
 ✨ E nunca esqueça: **batata é amor em forma de tubérculo.** 🥹💫  
 
----
 
-## 📸 Sugestão de Apresentação
-
-> Sirva em uma travessa branca com raminhos de salsinha por cima, taças de vinho ao redor e um sorriso no rosto. 🌿🍷
-
----
-
-### 💕 Bom apetite, estrelinha da cozinha! 🌟
 
