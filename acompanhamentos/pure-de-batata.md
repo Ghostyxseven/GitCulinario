@@ -36,6 +36,6 @@ Uma receita clássica, cremosa e simples de preparar. Ideal para acompanhar carn
 ## 🔙 Navegação
 
 👉 [Voltar ao MENU](../MENU.md)  
-👉 [Voltar ao README](../README.md
+👉 [Voltar ao README](../README.md)
 
 
