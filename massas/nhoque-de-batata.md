@@ -16,6 +16,10 @@
 
 ---
 
-[⬅️ Voltar à Categoria](.)  
-[🏠 Voltar ao Menu Principal](../menu.md)
+## 🔙 Navegação
+
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md)
+
+
 
