@@ -6,12 +6,12 @@ Aqui reunimos pratos deliciosos criados pela equipe **Git Culinário**.
 Prepare-se para explorar sabores incríveis! ✨🍲🍰
 
 ## 📚 Categorias
-- 🥗 [Saladas](saladas/)
+- 🥗 [Saladas](salada/)
 - 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopas/)
+- 🍲 [Sopas](sopa/)
 - 🍚 [Acompanhamentos](acompanhamentos/)
 - 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesas/)
+- 🍰 [Sobremesas](sobremesa/)
 - 🥤 [Bebidas](bebidas/)
 
 ## 📜 Receitas
