@@ -6,7 +6,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Git Culinario.
 ## Categorias
 
 - [Saladas](saladas/)
-- [Carnes](carnes/)
+- [Carnes](carnes)
 - [Sopas](sopas/)
 - [Acompanhamentos](acompanhamentos/)
 - [Sobremesas](sobremesas/)
