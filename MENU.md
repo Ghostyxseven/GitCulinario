@@ -15,8 +15,7 @@ Prepare-se para explorar sabores incríveis! ✨🍲🍰
 - 🍰 [Sobremesas](sobremesa)
 - 🥤 [Bebidas](bebidas/)
 
+## 🔙 Voltar para o Início
 
-## 📜 Receitas
-*(Esta seção será atualizada conforme novas receitas forem adicionadas.)*
-
+👉 **[Voltar para o README](README.md)**
 
