@@ -7,6 +7,17 @@ Prepare-se para explorar sabores incríveis! ✨🍲🍰
 
 
 ## 📚 Categorias
+- 🥗 [Saladas](saladas/)
+- 🥩 [Carnes](carnes/)
+- 🍲 [Sopas](sopas/)
+- 🍚 [Acompanhamentos](acompanhamentos/)
+- 🍝 [Massas](massas/)
+- 🍰 [Sobremesas](sobremesas/)
+- 🥤 [Bebidas](bebidas/)
+
+=======
+
+## 📚 Categorias
 - 🥗 [Saladas](salada/)
 - 🥩 [Carnes](carnes/)
 - 🍲 [Sopas](sopa/)
@@ -23,6 +34,8 @@ Prepare-se para explorar sabores incríveis! ✨🍲🍰
 - [Bebidas](bebidas/)
 
 
+
 ## 📜 Receitas
 *(Esta seção será atualizada conforme novas receitas forem adicionadas.)*
+
 
