@@ -7,6 +7,6 @@ Aqui você encontra um conjunto de receitas organizadas por categorias, criado d
 
 ## 📖 Acesse o Menu de Categorias
 
-👉 **[Clique aqui para abrir o MENU](./menu.md)**
+👉 **[Clique aqui para abrir o MENU](MENU.md)**
 
 ---
