@@ -36,3 +36,18 @@ Uma costela suculenta, macia e assada lentamente — perfeita para o almoço de 
 - Arroz branco  
 - Batatas assadas  
 
+---
+## 🔙 Navegação
+
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md)
+
+
+## 📚 Categorias
+- 🥗 [Saladas](salada)
+- 🥩 [Carnes](carnes/)
+- 🍲 [Sopas](sopa/)
+- 🍚 [Acompanhamentos](acompanhamentos/)
+- 🍝 [Massas](massas/)
+- 🍰 [Sobremesas](sobremesa)
+- 🥤 [Bebidas](bebidas/)

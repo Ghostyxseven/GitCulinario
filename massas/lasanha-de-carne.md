@@ -17,9 +17,18 @@
 4. Leve ao forno preaquecido a 200°C por cerca de 30 minutos, ou até gratinar. 😋  
 
 ---
+---
 ## 🔙 Navegação
 
 👉 [Voltar ao MENU](../MENU.md)  
 👉 [Voltar ao README](../README.md)
 
 
+## 📚 Categorias
+- 🥗 [Saladas](salada)
+- 🥩 [Carnes](carnes/)
+- 🍲 [Sopas](sopa/)
+- 🍚 [Acompanhamentos](acompanhamentos/)
+- 🍝 [Massas](massas/)
+- 🍰 [Sobremesas](sobremesa)
+- 🥤 [Bebidas](bebidas/)

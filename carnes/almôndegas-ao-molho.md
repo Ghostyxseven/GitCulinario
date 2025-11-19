@@ -40,3 +40,19 @@ Uma receita clássica, simples e deliciosa para acompanhar arroz, macarrão ou p
 ### 3. Finalização
 1. Coloque as almôndegas dentro do molho.
 2. Cozinhe p
+
+---
+## 🔙 Navegação
+
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md)
+
+
+## 📚 Categorias
+- 🥗 [Saladas](salada)
+- 🥩 [Carnes](carnes/)
+- 🍲 [Sopas](sopa/)
+- 🍚 [Acompanhamentos](acompanhamentos/)
+- 🍝 [Massas](massas/)
+- 🍰 [Sobremesas](sobremesa)
+- 🥤 [Bebidas](bebidas/)

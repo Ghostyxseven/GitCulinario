@@ -18,3 +18,12 @@
 
 
 
+## 📚 Categorias
+- 🥗 [Saladas](salada)
+- 🥩 [Carnes](carnes/)
+- 🍲 [Sopas](sopa/)
+- 🍚 [Acompanhamentos](acompanhamentos/)
+- 🍝 [Massas](massas/)
+- 🍰 [Sobremesas](sobremesa)
+- 🥤 [Bebidas](bebidas/)
+

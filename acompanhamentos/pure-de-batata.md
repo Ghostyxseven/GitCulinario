@@ -33,9 +33,18 @@ Uma receita clássica, cremosa e simples de preparar. Ideal para acompanhar carn
 * Adicione creme de leite se quiser uma textura mais rica.
 * Evite usar batata inglesa velha, pois ela pode deixar o purê “puxento”.
 
+---
 ## 🔙 Navegação
 
 👉 [Voltar ao MENU](../MENU.md)  
 👉 [Voltar ao README](../README.md)
 
 
+## 📚 Categorias
+- 🥗 [Saladas](salada)
+- 🥩 [Carnes](carnes/)
+- 🍲 [Sopas](sopa/)
+- 🍚 [Acompanhamentos](acompanhamentos/)
+- 🍝 [Massas](massas/)
+- 🍰 [Sobremesas](sobremesa)
+- 🥤 [Bebidas](bebidas/)
