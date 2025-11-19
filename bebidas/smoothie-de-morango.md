@@ -1,20 +1,21 @@
-# Smoothie de Morango
+# 🍓 Smoothie de Morango
 
 ## Ingredientes
-- 1 xícara de morangos frescos (lavados e sem folhas)  
-- 1 banana madura  
-- 1 copo (200 ml) de leite gelado (pode ser vegetal, como leite de amêndoas)  
-- 1 colher (sopa) de mel ou açúcar a gosto  
-- Cubos de gelo (opcional)
+- 🍓 1 xícara de morangos frescos  
+- 🍌 1 banana madura  
+- 🥛 1 copo (200 ml) de leite gelado (pode ser vegetal)  
+- 🍯 1 colher (sopa) de mel ou açúcar  
+- 🧊 Gelo (opcional)
 
 ## Modo de Preparo
-1. Coloque todos os ingredientes no liquidificador.  
-2. Bata até obter uma mistura cremosa e homogênea.  
-3. Ajuste a doçura conforme o seu gosto.  
-4. Sirva imediatamente em copos altos, decorando com pedaços de morango.
+1. Coloque os morangos, a banana, o leite e o mel no liquidificador.  
+2. Bata até obter um creme uniforme.  
+3. Acrescente gelo se quiser um smoothie mais espesso e gelado.  
+4. Sirva decorado com morangos fatiados.
 
 ---
 
-[Voltar à Categoria](bebidas/)  
-[Voltar ao Menu Principal](../MENU.md)
+⬅️[Voltar à Categoria](.)  
+🏠[Voltar ao Menu Principal](../READM.md)
+
 
