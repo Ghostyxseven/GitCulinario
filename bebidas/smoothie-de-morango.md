@@ -16,6 +16,6 @@
 ---
 
 ⬅️[Voltar à Categoria](.)  
-🏠[Voltar ao Menu Principal](../READM.md)
+🏠[Voltar ao Menu Principal](../README.md)
 
 
