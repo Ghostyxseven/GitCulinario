@@ -32,5 +32,8 @@ Uma receita simples, rápida e extremamente saborosa para acompanhar pratos como
 
 * Quanto mais fina a farinha, mais "sequinha" a farofa fica.
 * Para uma versão crocante, deixe o bacon bem dourado antes de misturar tudo.
+## 🔙 Navegação
 
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md
 
