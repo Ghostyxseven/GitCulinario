@@ -9,7 +9,7 @@ Prepare-se para explorar sabores incríveis! ✨🍲🍰
 ## 📚 Categorias
 - 🥗 [Saladas](salada)
 - 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopas/)
+- 🍲 [Sopas](sopa/)
 - 🍚 [Acompanhamentos](acompanhamentos/)
 - 🍝 [Massas](massas/)
 - 🍰 [Sobremesas](sobremesa)
