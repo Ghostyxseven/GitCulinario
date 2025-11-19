@@ -12,7 +12,7 @@ Prepare-se para explorar sabores incríveis! ✨🍲🍰
 - 🍲 [Sopas](sopas/)
 - 🍚 [Acompanhamentos](acompanhamentos/)
 - 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesas/)
+- 🍰 [Sobremesas](sobremesa)
 - 🥤 [Bebidas](bebidas/)
 
 
