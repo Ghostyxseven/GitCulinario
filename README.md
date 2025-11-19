@@ -15,25 +15,6 @@ Prepare-se para explorar sabores incríveis! ✨🍲🍰
 - 🍰 [Sobremesas](sobremesas/)
 - 🥤 [Bebidas](bebidas/)
 
-=======
-
-## 📚 Categorias
-- 🥗 [Saladas](salada/)
-- 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopa/)
-- 🍚 [Acompanhamentos](acompanhamentos/)
-- 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesa/)
-- 🥤 [Bebidas](bebidas/)
-=======
-- [Saladas](salada)
-- [Carnes](carnes)
-- [Sopas](sopas/)
-- [Acompanhamentos](acompanhamentos/)
-- [Sobremesas](sobremesas/)
-- [Bebidas](bebidas/)
-
-
 
 ## 📜 Receitas
 *(Esta seção será atualizada conforme novas receitas forem adicionadas.)*
