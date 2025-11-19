@@ -38,13 +38,3 @@ Uma receita clássica, cremosa e simples de preparar. Ideal para acompanhar carn
 
 👉 [Voltar ao MENU](../MENU.md)  
 👉 [Voltar ao README](../README.md)
-
-
-## 📚 Categorias
-- 🥗 [Saladas](salada)
-- 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopa/)
-- 🍚 [Acompanhamentos](acompanhamentos/)
-- 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesa)
-- 🥤 [Bebidas](bebidas/)

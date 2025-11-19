@@ -57,11 +57,3 @@ Este arquivo reúne opções rápidas e saborosas para acompanhar **arroz com ce
 👉 [Voltar ao MENU](../MENU.md)  
 👉 [Voltar ao README](../README.md)
  
-  ## 📚 Categorias
-- 🥗 [Saladas](salada)
-- 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopa/)
-- 🍚 [Acompanhamentos](acompanhamentos/)
-- 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesa)
-- 🥤 [Bebidas](bebidas/)

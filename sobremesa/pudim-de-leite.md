@@ -15,12 +15,7 @@
 - 3 ovos  
 - 1 xícara de açúcar (para a calda)
 
+## 🔙 Navegação
 
-## 📚 Categorias
-- 🥗 [Saladas](salada)
-- 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopa/)
-- 🍚 [Acompanhamentos](acompanhamentos/)
-- 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesa)
-- 🥤 [Bebidas](bebidas/)
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md)

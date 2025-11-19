@@ -48,11 +48,3 @@ Uma receita clássica, simples e deliciosa para acompanhar arroz, macarrão ou p
 👉 [Voltar ao README](../README.md)
 
 
-## 📚 Categorias
-- 🥗 [Saladas](salada)
-- 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopa/)
-- 🍚 [Acompanhamentos](acompanhamentos/)
-- 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesa)
-- 🥤 [Bebidas](bebidas/)

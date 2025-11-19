@@ -12,12 +12,7 @@
 3. Leve à geladeira por, no mínimo, 3 horas.  
 4. Finalize com a polpa de maracujá por cima.
 
+## 🔙 Navegação
 
-## 📚 Categorias
-- 🥗 [Saladas](salada)
-- 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopa/)
-- 🍚 [Acompanhamentos](acompanhamentos/)
-- 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesa)
-- 🥤 [Bebidas](bebidas/)
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md)

@@ -45,11 +45,3 @@ Clássico da cozinha brasileira, simples e cheio de sabor.
 👉 [Voltar ao README](../README.md)
 
 
-## 📚 Categorias
-- 🥗 [Saladas](salada)
-- 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopa/)
-- 🍚 [Acompanhamentos](acompanhamentos/)
-- 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesa)
-- 🥤 [Bebidas](bebidas/)

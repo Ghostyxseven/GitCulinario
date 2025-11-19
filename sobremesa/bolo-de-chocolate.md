@@ -16,14 +16,7 @@
 4. Finalize adicionando o fermento e mexendo delicadamente.  
 5. Asse em forno pré-aquecido (180°C) por cerca de 40 minutos.
 
+## 🔙 Navegação
 
-
-## 📚 Categorias
-- 🥗 [Saladas](salada)
-- 🥩 [Carnes](carnes/)
-- 🍲 [Sopas](sopa/)
-- 🍚 [Acompanhamentos](acompanhamentos/)
-- 🍝 [Massas](massas/)
-- 🍰 [Sobremesas](sobremesa)
-- 🥤 [Bebidas](bebidas/)
-
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md)
