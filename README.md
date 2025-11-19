@@ -5,7 +5,7 @@ Bem-vindo ao nosso livro colaborativo de receitas!
 Aqui reunimos pratos deliciosos criados pela equipe Git Culinario.
 ## Categorias
 
-- [Saladas](saladas/)
+- [Saladas](salada)
 - [Carnes](carnes)
 - [Sopas](sopas/)
 - [Acompanhamentos](acompanhamentos/)
