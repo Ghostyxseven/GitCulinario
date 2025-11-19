@@ -14,8 +14,10 @@
 4. Sirva decorado com morangos fatiados.
 
 ---
+## 🔙 Navegação
 
-⬅️[Voltar à Categoria](.)  
-🏠[Voltar ao Menu Principal](../README.md)
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md)
+
 
 
