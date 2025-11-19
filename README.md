@@ -1,10 +1,20 @@
-# Livro de Receitas – Git Culinario
+# 🍽️ Livro de Receitas – Git Culinário
 
-Bem-vindo ao nosso livro colaborativo de receitas!
+Bem-vindo ao nosso livro colaborativo de receitas! 😄👩‍🍳👨‍🍳  
 
-Aqui reunimos pratos deliciosos criados pela equipe Git Culinario.
-## Categorias
+Aqui reunimos pratos deliciosos criados pela equipe **Git Culinário**.  
+Prepare-se para explorar sabores incríveis! ✨🍲🍰
 
+
+## 📚 Categorias
+- 🥗 [Saladas](salada/)
+- 🥩 [Carnes](carnes/)
+- 🍲 [Sopas](sopa/)
+- 🍚 [Acompanhamentos](acompanhamentos/)
+- 🍝 [Massas](massas/)
+- 🍰 [Sobremesas](sobremesa/)
+- 🥤 [Bebidas](bebidas/)
+=======
 - [Saladas](salada)
 - [Carnes](carnes)
 - [Sopas](sopas/)
@@ -12,6 +22,7 @@ Aqui reunimos pratos deliciosos criados pela equipe Git Culinario.
 - [Sobremesas](sobremesas/)
 - [Bebidas](bebidas/)
 
-## Receitas
+
+## 📜 Receitas
 *(Esta seção será atualizada conforme novas receitas forem adicionadas.)*
 
