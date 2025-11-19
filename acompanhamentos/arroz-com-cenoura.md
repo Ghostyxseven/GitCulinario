@@ -51,3 +51,8 @@ Este arquivo reúne opções rápidas e saborosas para acompanhar **arroz com ce
 ## 💡 Dicas rápidas
 
 * Para economizar tempo: grelhe a proteína enquanto
+
+* ## 🔙 Navegação
+
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md
