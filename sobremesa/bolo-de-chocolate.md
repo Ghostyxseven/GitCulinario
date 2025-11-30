@@ -16,6 +16,12 @@
 4. Finalize adicionando o fermento e mexendo delicadamente.  
 5. Asse em forno pré-aquecido (180°C) por cerca de 40 minutos.
 
+
+Finalização
+Depois de assar e esfriar um pouco, desenforme o bolo.
+
+Use uma peneira para polvilhar açúcar de confeiteiro por cima.
+
 ## 🔙 Navegação
 
 👉 [Voltar ao MENU](../MENU.md)  
