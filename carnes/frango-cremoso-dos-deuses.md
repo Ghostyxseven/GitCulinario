@@ -40,5 +40,7 @@ Simples de fazer e com aquele sabor que conquista todo mundo. 😋🔥
 Fica perfeito com batata palha ou arroz soltinho! 😍
 
 ---
+## 🔙 Navegação
 
-[🔙 Voltar ao Menu](../MENU.md)
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md)
