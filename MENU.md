@@ -57,7 +57,7 @@ Selecione uma categoria para visualizar as receitas:
 ## 🍰 Sobremesas
 - [Bolo de Chocolate](./sobremesa/bolo-de-chocolate.md)  
 - [Mousse de Maracujá](./sobremesa/mousse-de-maracuja.md)  
-- [Pudim de Leite](./sobremesa/pudim-de-leite.md)
+- [Pudim de Leite](./sobremesa/pudim-de-leite.md)  
 - [Mousse de Morango da Carmelita](sobremesas/mousse-de-morango-da-carmelita.md)
 
 ---
