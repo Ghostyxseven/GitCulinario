@@ -30,6 +30,7 @@ Selecione uma categoria para visualizar as receitas:
 ## 🍹 Bebidas
 - [Smoothie de Morango](./bebidas/smoothie-de-morango.md)  
 - [Vitamina de Banana](./bebidas/vitamina-de-banana.md)  
+- [Limonada suiça](./bebidas/limonada-suica.md)
 
 ---
 
