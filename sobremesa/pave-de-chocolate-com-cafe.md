@@ -40,3 +40,6 @@ Leve à geladeira por pelo menos 4 horas antes de servir.
 
  # Resultado
 Um pavê cremoso, com o sabor intenso do chocolate e o toque sofisticado do café.
+
+👉 [Voltar ao MENU](../MENU.md)  
+👉 [Voltar ao README](../README.md)
