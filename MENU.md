@@ -30,6 +30,7 @@ Selecione uma categoria para visualizar as receitas:
 ## 🍹 Bebidas
 - [Smoothie de Morango](./bebidas/smoothie-de-morango.md)  
 - [Vitamina de Banana](./bebidas/vitamina-de-banana.md)  
+- [Limonada suiça](./bebidas/limonada-suica.md)
 
 ---
 
@@ -58,7 +59,11 @@ Selecione uma categoria para visualizar as receitas:
 - [Bolo de Chocolate](./sobremesa/bolo-de-chocolate.md)  
 - [Mousse de Maracujá](./sobremesa/mousse-de-maracuja.md)  
 - [Pudim de Leite](./sobremesa/pudim-de-leite.md)  
+-  feature/receita-pave
 - [Pavê de Chocolate com Café](sobremesas/pave-chocolate-cafe.md)
+
+- [Mousse de Morango da Carmelita](sobremesas/mousse-de-morango-da-carmelita.md)
+ main
 
 ---
 
