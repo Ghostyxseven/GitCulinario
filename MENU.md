@@ -58,6 +58,7 @@ Selecione uma categoria para visualizar as receitas:
 - [Bolo de Chocolate](./sobremesa/bolo-de-chocolate.md)  
 - [Mousse de Maracujá](./sobremesa/mousse-de-maracuja.md)  
 - [Pudim de Leite](./sobremesa/pudim-de-leite.md)  
+- [Pavê de Chocolate com Café](sobremesas/pave-chocolate-cafe.md)
 
 ---
 
