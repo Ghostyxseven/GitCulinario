@@ -29,13 +29,13 @@ Criar um livro de receitas digital onde cada integrante contribui seguindo um fl
 
 | Nome                | Função no Projeto            |
 |---------------------|------------------------------|
-| **Micael Cardoso**  | Owner                        |
-| **Wesley Tiago**    | Review e Contribuidor        |
-| **Nilson Rodrigo**  | Review e Contribuidor        |
-| **Josiane Amorim**  | Review e Contribuidora       |
-| **Marcos Vinicius** | Contribuidor                 |
-| **Ana Rosa**        | Contribuidora                |
-| **Gisele Dias**     | Contribuidora                |
+| **[Micael Cardoso](https://github.com/Ghostyxseven)**  | Owner                        |
+| **[Wesley Tiago](https://github.com/WesleyTiagg)**     | Review e Contribuidor        |
+| **[Nilson Rodrigo](https://github.com/Nilson-Rodrigo)** | Review e Contribuidor        |
+| **[Josiane Amorim](https://github.com/Josiane10)**     | Review e Contribuidora       |
+| **[Marcos Vinicius](https://github.com/MarcsVinny)**   | Contribuidor                 |
+| **[Ana Rosa](https://github.com/AnaRosa2)**            | Contribuidora                |
+| **[Gisele Dias](https://github.com/Gisele002)**        | Contribuidora                |
 
 ---
 
