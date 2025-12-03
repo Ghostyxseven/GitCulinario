@@ -45,6 +45,7 @@ Selecione uma categoria para visualizar as receitas:
 - [Espaguete Carbonara](./massas/espaguete-carbonara.md)  
 - [Lasanha de Carne](./massas/lasanha-de-carne.md)  
 - [Nhoque de Batata](./massas/nhoque-de-batata.md)  
+- [massa fina](./massas/massa-de-pastel.md)
 
 ---
 
